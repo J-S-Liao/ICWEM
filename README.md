@@ -1,4 +1,4 @@
-# ICWEM: Invertible Channel-Wise Entropy Model
+# ICWEM: Invertible Channel-Wise Entropy Model for Image Compression
 Junsong Liao, *Imperial College London, United Kingdom*
 
 This is the pytorch version of the implementation of the MSc individual research project at Imperial College London. 
