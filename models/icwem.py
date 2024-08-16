@@ -454,11 +454,8 @@ class ICWEM(CompressionModel):
         return updated
 
     def g_a_func(self, x):
-        print("x_size:", x.size())
         x = self.enh(x)
-        print("after enh:", x.size())
         x = self.inv(x)
-        print("after inv:", x.size())
         return x
 
     def g_s_func(self, x):
