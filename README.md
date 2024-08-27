@@ -85,7 +85,7 @@ Citation
 ```BibTex
 @mastersthesis{liao2024invertible,
   author={Junsong Liao},
-  title={{Invertible Channel-Wise Entropy Model}},
+  title={Invertible Channel-Wise Entropy Model},
   school={Imperial College London},
   year={2024}
 }
