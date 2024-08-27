@@ -19,6 +19,7 @@ ICWEM: Invertible Channel-Wise Entropy Model
 
 Result
 ----------
+We randomly select 2500 images from ImageNet as the training dataset and train 400 iterations. The Rate-Distortion curve is shown in the following figure:
 ![Kodak](image/Kodak.png)
 
 Visual Result
