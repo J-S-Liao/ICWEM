@@ -14,6 +14,7 @@ Compared with traditional image compression methods, deep learning-based image c
 ICWEM: Invertible Channel-Wise Entropy Model
 ----------
 ![ICWEM1](image/Overall method of this article.png)
+
 ![ICWEM2](image/Channel-wise entropy model of this article.png)
 
 Result
